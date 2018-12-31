@@ -1,0 +1,5 @@
+user register : ucp.php->function_module.php->function_user.php->auth
+
+table name : phpbb_users
+
+          group_id -> phpbb_groups table

@@ -1,0 +1,28 @@
+installing phpBB link : https://www.youtube.com/watch?v=iaJWwt1Ldd0
+
+create form link : https://www.youtube.com/watch?v=nax4gI22NSQ
+
+change language : https://www.youtube.com/watch?v=wRaMljG2igY
+
+add csv file data to database : https://www.cloudways.com/blog/import-export-csv-using-php-and-mysql/
+
+forum admin panel
+
+username  Admin
+password  admin123
+
+database details
+
+ db name : forum
+ username : root
+ password : 
+
+
+
+       created forum and catergory store in phpbb_forums table in database.
+
+       phpbb_topics table for topics.
+   
+       phpbb_posts table for replay.
+
+       phpbb_users table for user login /create user 
